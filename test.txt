@@ -1,1 +1,2 @@
-Hello world
+New info added
+New info added 
